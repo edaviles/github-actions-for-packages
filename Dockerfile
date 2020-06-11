@@ -1,2 +1,2 @@
 FROM nginx:1.17
-COPY . /usr/share/nginx/html Dockerfile contents go here!
+COPY . /usr/share/nginx/html
